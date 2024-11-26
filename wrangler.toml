@@ -1,4 +1,4 @@
-name = "cf-worker-ws-dev"
+name = "tulum"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
@@ -6,6 +6,6 @@ workers_dev = true
 
 [vars]
 # PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+UUID = "421b4444-5d48-4725-8f46-c7b23439c084"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
